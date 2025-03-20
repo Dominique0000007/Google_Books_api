@@ -3,7 +3,10 @@
     padding: 1rem;
     text-align: center;
     border-top: 1px solid #007bff;
-    margin: 0 0 5rem;
+  }
+  
+  .footer .social-links a {
+    margin: 0 0.5rem;
     color: #007bff;
     text-decoration: none;
-}
+  }

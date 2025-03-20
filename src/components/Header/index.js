@@ -1,10 +1,10 @@
-import React from "react";
-import { Link } from 'react-router-dom'; // Corrigido o nome para Link com 'L' maiúsculo
-import "./header.css";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import './header.css';
 
-export default function Header() {  // Corrigido para Header com 'H' maiúsculo
-    return (
-        <header className="header">
+export default function Header(){
+    return(
+        <header className='header'>
             <h1>Clínica Odontológica Sorriso Feliz</h1>
             <nav>
                 <ul>

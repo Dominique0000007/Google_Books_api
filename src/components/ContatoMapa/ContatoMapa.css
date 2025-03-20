@@ -1,0 +1,36 @@
+.contato-mapa {
+    padding: 2rem;
+  }
+  
+  .dentistas-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+  }
+  
+  .dentista-card {
+    width: 300px;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .dentista-card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 0.5rem;
+  }
+  
+  .mapa iframe {
+    width: 100%;
+    height: 300px;
+  }
+  
+  .telefones {
+    margin-top: 1rem;
+    text-align: center;
+  }
