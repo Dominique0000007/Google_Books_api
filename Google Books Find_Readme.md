@@ -1,6 +1,6 @@
 ## **📚 Google Books Finder**
 
-**Google Books Finder** é um **aplicativo da internet** feito com **React.js** e **Axios** que usa a **API pública do Google Books.** Ele permite que você **procure livros digitando o título e veja informações importantes sobre** eles.
+**Google Books Finder** é um **aplicativo** feito com **React.js** e **Axios** que usa a **API pública do Google Books.** Ele permite que você **procure livros digitando o título e veja informações importantes sobre** eles.
 
 O objetivo principal deste projeto é mostrar como *8usar uma API** que é **pública,** usando jeitos legais de **organizar o código,** como **dividir ele em pedacinhos (componentes)** e deixar **tudo bem explicado com comentários**.
 
