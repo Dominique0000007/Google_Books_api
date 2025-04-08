@@ -36,4 +36,4 @@ O objetivo principal deste projeto é mostrar como usar uma API que é pública,
 
 ### 🔗 Link da API
 
-**.**  [https://developers.google.com/books](https://developers.google.com/books)
+ [https://developers.google.com/books](https://developers.google.com/books)
